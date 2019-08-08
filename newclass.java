@@ -16,7 +16,7 @@ public class newclass
     public newclass()
     {
         // initialise instance variables
-        x = 0;
+        x = 77;
     }
 
     /**
